@@ -1,5 +1,5 @@
 # Demo
 
-## Subheading - edits
+## Subheading - edit
 
 my description
